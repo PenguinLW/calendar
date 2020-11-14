@@ -4,6 +4,5 @@
 gitignore
 .idea/*
 Заметки/*
-bin/*
 *.class
 *.jar
