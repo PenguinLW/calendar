@@ -2,4 +2,4 @@
 
 git add .
 git commit -m PenguinL
-echo Kovalsky95 | git push --set-upstream calendar master
+git push --set-upstream calendar master
