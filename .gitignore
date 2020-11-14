@@ -1,4 +1,4 @@
-/bin/calendar/icon/*.png
+/bin/calendar/icon/
 
 .gitignore
 gitignore
