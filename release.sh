@@ -1,7 +1,7 @@
 #in venv
 #pip install -r req.txt
 pip freeze > req.txt
-#git clone -o calendar https://github.com/Kovalsky95/calendar.git
+#git clone -o calendar https://github.com/PenguinLW/calendar.git
 #git config --global credential.helper cache
 git config --global credential.helper "cache --timeout=25200"
 #git config credential.helper store
